@@ -248,12 +248,6 @@
        
     });
     
-    
-  
-
-
-    // Parent student form Validation
-    
       function validateStep2() {
       // Reset error message
       var errorMessage = document.getElementById('step2ErrorMessage');
